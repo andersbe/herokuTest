@@ -12,3 +12,14 @@ dist
 /.classpath
 /.project
 /RUNNING_PID
+# Ignore Play! working directory #
+db
+eclipse
+log
+logs
+precompiled
+tmp
+test-result
+eclipse
+server.pid
+>>>>>>> 3c3e3e3cb5da48d4d616e4bf6e060640c0f07ec8
